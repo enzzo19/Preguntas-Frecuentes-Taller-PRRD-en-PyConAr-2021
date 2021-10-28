@@ -62,3 +62,6 @@ Los videos estan subidos a mi canal de Youtube y estan visibles para cualquiera 
 
 
 ***Saludos a Todos y Exitos en el Taller de Programar y REprogramar Recursos para Docentes***
+
+
+***Sepamos recorrer desde lo simple, hasta todo lo complejo que podamos llegar***
