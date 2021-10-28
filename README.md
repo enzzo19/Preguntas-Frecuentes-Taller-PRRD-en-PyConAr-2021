@@ -25,9 +25,9 @@ Los videos estan subidos a mi canal de Youtube y estan visibles para cualquiera 
 
 * ¿Como puedo subir un nuevo archivo a mi Plataforma Digital? [Click Aqui!](https://youtu.be/PjBvtlHXYOU)
 
-* ¿Como puedo mover un archivo a otra carpeta dentro de mi Plataforma Digital? [Click Aqui!](https://youtu.be/QwiwHaJVVJs)
-
 * ¿Como puedo crear una nueva carpeta dentro de mi Plataforma Digital? [Click Aqui!](https://youtu.be/TrcqYBxpf24)
+
+* ¿Como puedo mover un archivo a otra carpeta dentro de mi Plataforma Digital? [Click Aqui!](https://youtu.be/QwiwHaJVVJs)
 
 * ¿Como guardar un Archivo dentro de mi Plataforma Digital? [Click Aqui!](https://youtu.be/TEUCMLqqkI4)
 
