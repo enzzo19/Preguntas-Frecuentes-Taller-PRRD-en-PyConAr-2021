@@ -11,31 +11,31 @@ Bueno basicamente todo comenzo en el ultimo año de secundaria(año 2018), de mi
 
 ### ¿Cuales son los videos y donde los encuentro ? 
 
-Los videos estan subidos a mi canal de Youtube y estan visibles para cualquiera pueda acceder a ellos de forma publica. (Aqui)[https://www.youtube.com/watch?v=uIE-PpvS_Pw&list=PLB4T2blgpn1zrhof2b1N08pD6VG-P1k0E] el link del canal.
+Los videos estan subidos a mi canal de Youtube y estan visibles para cualquiera pueda acceder a ellos de forma publica. [Click Aqui!](https://www.youtube.com/watch?v=uIE-PpvS_Pw&list=PLB4T2blgpn1zrhof2b1N08pD6VG-P1k0E) <-- el link del canal.
 
 ## Que Preguntas Frecuentes se Responden ?
 
-* ¿Como Puedo Iniciar/Cerrar sesión en mi Plataforma Digital? (Click Aqui!)[https://youtu.be/uIE-PpvS_Pw]
+* ¿Como Puedo Iniciar/Cerrar sesión en mi Plataforma Digital? [Click Aqui!](https://youtu.be/uIE-PpvS_Pw)
 
-* ¿Como puedo cambiar el idioma por defecto en mi Plataforma Digital? (Click Aqui!)[https://youtu.be/lq1oZHkJ7pE]
+* ¿Como puedo cambiar el idioma por defecto en mi Plataforma Digital? [Click Aqui!](https://youtu.be/lq1oZHkJ7pE)
 
-* ¿Como puedo crear un nuevo cuaderno de Jupyter? (Click Aqui!)[https://youtu.be/86Xz4e-LCuY]
+* ¿Como puedo crear un nuevo cuaderno de Jupyter? [Click Aqui!](https://youtu.be/86Xz4e-LCuY)
 
-* ¿Como puedo borrar un archivo? (Click Aqui!)[https://youtu.be/U6fiQeUV2Ks]
+* ¿Como puedo borrar un archivo? [Click Aqui!](https://youtu.be/U6fiQeUV2Ks)
 
-* ¿Como puedo subir un nuevo archivo a mi Plataforma Digital? (Click Aqui!)[https://youtu.be/PjBvtlHXYOU]
+* ¿Como puedo subir un nuevo archivo a mi Plataforma Digital? [Click Aqui!](https://youtu.be/PjBvtlHXYOU)
 
-* ¿Como puedo mover un archivo a otra carpeta dentro de mi Plataforma Digital? (Click Aqui!)[https://youtu.be/QwiwHaJVVJs]
+* ¿Como puedo mover un archivo a otra carpeta dentro de mi Plataforma Digital? [Click Aqui!](https://youtu.be/QwiwHaJVVJs)
 
-* ¿Como puedo crear una nueva carpeta dentro de mi Plataforma Digital? (Click Aqui!)[https://youtu.be/TrcqYBxpf24]
+* ¿Como puedo crear una nueva carpeta dentro de mi Plataforma Digital? [Click Aqui!](https://youtu.be/TrcqYBxpf24)
 
-* ¿Como guardar un Archivo dentro de mi Plataforma Digital? (Click Aqui!)[https://youtu.be/TEUCMLqqkI4]
+* ¿Como guardar un Archivo dentro de mi Plataforma Digital? [Click Aqui!](https://youtu.be/TEUCMLqqkI4)
 
-* ¿Como puedo ejecutar las celdas de codigo de mi cuaderno? (Click Aqui!)[https://youtu.be/UoBj56InY3M]
+* ¿Como puedo ejecutar las celdas de codigo de mi cuaderno? [Click Aqui!](https://youtu.be/UoBj56InY3M)
 
-* ¿Existe un orden de ejecucion dentro de mi cuaderno? (Click Aqui!)[https://youtu.be/Pfu__JzoaDg]
+* ¿Existe un orden de ejecucion dentro de mi cuaderno? [Click Aqui!](https://youtu.be/Pfu__JzoaDg)
 
-* ¿Que hago si me sale de un Error de Conexion? (Click Aqui !)[https://youtu.be/UCDmdZnjtko]
+* ¿Que hago si me sale de un Error de Conexion? [Click Aqui !](https://youtu.be/UCDmdZnjtko)
 
 
 
@@ -55,10 +55,10 @@ Los videos estan subidos a mi canal de Youtube y estan visibles para cualquiera 
 
 ## Comunidad
 
-* Canal de Telegram de Python Norte: (Click Aqui!)[https://t.me/pythonnorte]
-* Github de Python Norte: (Click Aqui!)[https://github.com/PythonNorte]
+* Canal de Telegram de Python Norte: [Click Aqui!](https://t.me/pythonnorte)
+* Github de Python Norte: [Click Aqui!](https://github.com/PythonNorte)
 
-*  Canal de Telegram de Python Argentina: (Click Aqui!)[https://t.me/pythonargentina]
+*  Canal de Telegram de Python Argentina: [Click Aqui!](https://t.me/pythonargentina)
 
 
 ***Saludos a Todos y Exitos en el Taller de Programar y REprogramar Recursos para Docentes***
